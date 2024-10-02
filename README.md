@@ -1,4 +1,4 @@
-# Blinkit: Grocery Product Analysis
+# [Blinkit: Grocery Product Analysis](https://public.tableau.com/app/profile/satish.reddy8710/viz/Blinkit_17273288584860/Dashboard1?publish=yes)
 
 ## Overview
 This project is a case study that analyzes grocery product sales across various outlets using Tableau. The analysis aims to uncover customer behavior insights, track sales trends, and evaluate performance metrics. These insights help inform operational improvements, enhance customer satisfaction, and optimize product offerings and store layouts at Blinkit.
